@@ -1,4 +1,4 @@
-name: mlops-exaple-tensorflow-regression
+name: my-mlops-exaple-tensorflow-regression
 on: [push]
 jobs:
   run:
